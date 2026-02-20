@@ -17,7 +17,7 @@
 
 Скриншот 5:
 
-![Скриншот 5](https://github.com/roomantix/11-03/blob/main/images/5.png)
+![Скриншот 5](https://github.com/roomantix/11-03/blob/main/images/1.png)
 
 
 ---
