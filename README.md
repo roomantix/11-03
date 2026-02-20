@@ -47,6 +47,10 @@
 ### Решение
 
 
+Скриншот 3:
+
+![Скриншот 3](https://github.com/roomantix/11-03/blob/main/img/3.png)
+
 ---
 ### Задание 4. Filebeat. 
 
