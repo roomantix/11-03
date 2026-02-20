@@ -15,9 +15,9 @@
 
 ### Решение
 
-Скриншот 5:
+Скриншот 1:
 
-![Скриншот 5](https://github.com/roomantix/11-03/blob/main/img/1.png)
+![Скриншот 1](https://github.com/roomantix/11-03/blob/main/img/1.png)
 
 
 ---
@@ -30,7 +30,9 @@
 ---
 ### Решение
 
+Скриншот 2:
 
+![Скриншот 2](https://github.com/roomantix/11-03/blob/main/img/2.png)
 
 
 
