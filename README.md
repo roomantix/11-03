@@ -62,6 +62,10 @@
 ### Решение
 
 
+![Скриншот 4](https://github.com/roomantix/11-03/blob/main/img/4.png)
+![Скриншот 5](https://github.com/roomantix/11-03/blob/main/img/5.png)
+
+
 
 
 
